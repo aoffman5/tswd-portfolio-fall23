@@ -23,7 +23,7 @@ I want to be able to use these skills in the theatre to create appealing illustr
 
 Soon this will be full of data visualizations...
 ## Visualizing Government Debt
-[Eventually, this will be here.](visualizing-government-debt)
+[Eventually, this will be here.](visualizing-government-debt.md)
 ## Critique By Design
 
 ## Final Project
