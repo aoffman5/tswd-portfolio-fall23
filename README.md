@@ -94,7 +94,7 @@ So here's the code you'll need to add to your own site to create a second page.
 
 Any of those formats will work. Here's some examples of working links: 
 
-`[test](King-County-Demo.md)`
+[test](King-County-Demo.md)
 
 `[title](dataviz)` = [title](dataviz)  
 `[dataviz](https://cmustudent.github.io/portfolio/dataviz.html)` = [dataviz](https://cmustudent.github.io/portfolio/dataviz.html)  
