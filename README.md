@@ -1,13 +1,13 @@
 # Ashley's Portfolio
 
-- Web page URL: https://aoffman5.github.io/tswd-portfolio-fall23/
-- This repository: https://github.com/aoffman5/tswd-portfolio-fall23/
-
-# Portfolio
 This is my public portfolio for Telling Stories with Data at CMU!  Thanks for being here 😄 Here's where my work will go throughout the semester. 
 
+Here are some links that I can use to get to my repository and public page faster.
+- Web page URL: https://aoffman5.github.io/tswd-portfolio-fall23/
+- Repository: https://github.com/aoffman5/tswd-portfolio-fall23/
+
 # About me
-Hi! I'm Ashley Offman (she/her), and I am a second year in the Master of Arts Management program at CMU. I come from a theatre performance background, and before CMU, I got my BFA in Musical Theatre! I still love to sing and dance and I perform whenever I get the chance. Outside of theatre, I love to watch reality TV (currently re-watching Dance Moms while I wait for the next season of Dancing With The Stars), work out, cook, and play video games. I particularly enjoy Stardew Valley and Animal Crossing. I think I need to change my avatar's outfit, but it could just be the hairstyle. What do you think? 
+Hi! I'm Ashley Offman (she/her), and I am a second year in the Master of Arts Management program at CMU. I come from a theatre performance background, and before CMU, I got my BFA in Musical Theatre! I still love to sing and dance and I perform whenever I get the chance. Outside of theatre, I love to watch reality TV (*currently re-watching Dance Moms while I wait for the next season of Dancing With The Stars*), work out, cook, and play video games. I particularly enjoy Stardew Valley and Animal Crossing. I think I need to change my avatar's outfit, but it could just be the hairstyle. What do you think? 
 
 ![Photo of me in Animal Crossing](Screenshot%202023-09-05%20at%2010.34.21 PM.png)
 
