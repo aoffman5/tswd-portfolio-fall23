@@ -19,6 +19,8 @@ I have never taken a data visualization course before, so here is what I hope to
 
 I want to be able to use these skills in the theatre to create appealing illustrations of attendance figures, donation trends, or even to show the most popular methods of transportation used to get to the theatre! As an artist presenting to fellow artists, it's important for me to have a command of imagery, as more creative ways of presenting data will be more actionable for them. 
 
+After I graduate, I hope to work in theatre as a company manager, at an artist management firm, or in cultural policy! 
+
 # Portfolio
 
 Soon this will be full of data visualizations...
