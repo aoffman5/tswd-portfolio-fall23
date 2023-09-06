@@ -22,8 +22,16 @@ I want to be able to use these skills in the theatre to create appealing illustr
 # Portfolio
 
 Soon this will be full of data visualizations...
+## Visualizing Government Debt
 
-### Starting here... starting now!
+## Critique By Design
+
+## Final Project
+### Part 1
+### Part 2
+### Part 3
+
+# Starting here... starting now!
 
 We all have to start somewhere, so here is the first data visualization I've ever made in Flourish!
 
