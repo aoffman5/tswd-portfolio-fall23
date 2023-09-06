@@ -9,7 +9,7 @@ This is my public portfolio for Telling Stories with Data at CMU!  Here's where 
 # About me
 Hi!  I really like data.  And I like visualizations.  So I guess you can say that I like data visualizations!
 
-![Photo of me in Animal Crossing](Screenshot 2023-09-05 at 10.34.21 PM.png)
+![Photo of me in Animal Crossing](Screenshot%202023-09-05%20at%2010.34.21 PM.png)
 # What I hope to learn
 All the things - obviously. Maybe I want to make a list of all the things.  If so, I can do so in Markdown like this: 
 
