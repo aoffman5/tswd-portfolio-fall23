@@ -12,12 +12,6 @@ Hi!  I really like data.  And I like visualizations.  So I guess you can say tha
 # What I hope to learn
 All the things - obviously. Maybe I want to make a list of all the things.  If so, I can do so in Markdown like this: 
 
-1. List item #1
-2. List item #2
-3. List item #3
-
-or...
-
 - List item #1
 - List item #2
 - List item #3
@@ -39,23 +33,9 @@ For this assignment, make sure you set up and link to a new page.  This page is 
 [Part II](final-project-part-two)
 [Part III](final-project-part-three)
 
-### Setting up a separate page
+### Starting here... starting now!
 
-So here's the code you'll need to add to your own site to create a second page. 
+We all have to start somewhere, so here is the first data visualization I've ever made in Flourish!
 
-1. First, create a new page in your repository (for example, dataviz1.md)
-2. Next, add a link to that page by inserting the following into your readme.md page:
+[King County Demo](King-County-Demo)
 
-`[title](dataviz)` or `[dataviz](https://cmustudent.github.io/portfolio/dataviz.html)` or `[CMU](https://www.cmu.edu)`
-
-Any of those formats will work. Here's some examples of working links: 
-
-[test](King-County-Demo)
-
-`[title](dataviz)` = [title](dataviz)  
-`[dataviz](https://cmustudent.github.io/portfolio/dataviz.html)` = [dataviz](https://cmustudent.github.io/portfolio/dataviz.html)  
-`[CMU](https://www.cmu.edu)` = [CMU](https://www.cmu.edu)   
-
-Make sure to check these from your publicly accessible URL to make sure they're working correctly (not from the preview tab). 
-
-Looking for more?  A nice Markdown guide [can be found here](https://www.markdownguide.org/cheat-sheet/)
