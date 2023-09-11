@@ -1,3 +1,5 @@
+| [home page](https://aoffman5.github.io/tswd-portfolio-fall23/) | [visualizing government debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
+
 # Ashley's Portfolio
 
 This is my public portfolio for Telling Stories with Data at CMU!  Thanks for being here 😄 Here's where my work will go throughout the semester. 
