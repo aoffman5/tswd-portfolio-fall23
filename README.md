@@ -25,7 +25,7 @@ After I graduate, I hope to work in theatre as a company manager, at an artist m
 
 Soon this will be full of data visualizations...
 ## Visualizing Government Debt
-[Eventually, this will be here.](visualizing-government-debt)
+[Click here!](visualizing-government-debt)
 ## Critique By Design
 
 ## Final Project
