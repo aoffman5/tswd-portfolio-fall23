@@ -10,7 +10,8 @@ This series of data visualizations represents the debt-to-gross domestic product
 - A table with year-by-year data of a country's debt
 - A line chart that a user can highlight specific countries on
 
-I've attached the bar chart with 2019's numbers here for you to look at. I chose to disable the country highlights to focus on the overall form of the chart. The chart is sorted in a way that is predictable and easy to read, with the values being sorted in ascending order. 
+I've attached the bar chart with 2019's numbers here for you to look at. I chose to disable the country highlights to focus on the overall form of the chart. The chart is sorted in a way that is predictable and easy to read, with the values being sorted in ascending order. With the graph's interactive component of being able to roll over a bar to get the country name and exact percentage of the country's ratio, the x-axis labels and gridlines on the y-axis are unnecessary. 
+
 <iframe src="https://data.oecd.org/chart/7bh3" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/7bh3" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2019</a></iframe>
 
 
