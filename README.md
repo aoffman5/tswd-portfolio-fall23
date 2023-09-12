@@ -25,6 +25,7 @@ After I graduate, I hope to work in theatre as a company manager, at an artist m
 
 # Portfolio
 ## King County COVID Cases
+
 <script src="https://public.flourish.studio/resources/embed.js"></script>
 
 ## Tableau Demo of Trust in News Outlets
