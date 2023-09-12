@@ -20,6 +20,7 @@ If we want to look at a country's debt to GDP ratio over time, it would be more 
 
 A challenge that arises with the grid of line charts is that it's challenging to pinpoint exact values on the very small grid, but it's very useful for those who are visual learners and can analyze the shapes of each line to determine trends. For example, Japan is continuously trending upward throughout its line chart, while countries like Estonia and Luxembourg essentially flatline at ratios below 50%. Some countries with notable spikes include Greece at the end of the 2000's and Great Britain's 28% jump from 2008-2009. Many other countries have graphs that look like rolling hills, like Slovakia. 
 
+A design choice I made was to turn the gridlines a light gray. I wanted them to still be present due to the overall size of the charts, but I did not want them to be prominent as they can be distracting.
 <div class="flourish-embed flourish-chart" data-src="visualisation/14983815"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 
