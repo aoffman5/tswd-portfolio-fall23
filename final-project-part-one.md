@@ -32,7 +32,7 @@ My call to action would be to the administrations of these schools to re-evaluat
 
 Here are some rough visualizations I've created in Flourish and Infogram that I'm planning to polish to accurately represent the data. 
 ![Tony Winner Graphic](Screenshot%202023-09-27%20at%203.18.36 PM.png)
-![Cost Initial Sketch](Cost%20Initial%20Sketch.png
+![Cost Initial Sketch](Cost%20Initial%20Sketch.png)
 
 # The data
 > A couple of paragraphs that document your data source(s), and an explanation of how you plan on using your data. 
