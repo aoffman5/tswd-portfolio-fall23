@@ -25,7 +25,7 @@ Finally, I want to shed light on the issues of representation in the industry an
 
 First, I want to use a pictogram to represent the amount of Tony Award winners from the last five years, but I am debating if I want to break it down by school or by the "top 10" schools versus elsewhere. 
 
-My call to action would be to the administrations of these schools to re-evaluate the costs of their screening and application processes and to patrons of the arts to invest in the future of musical theatre by donating to an organization like The Fund for College Auditions. 
+My call to action would be to the administrations of these schools to re-evaluate the costs of their screening and application processes and to patrons of the arts to invest in the future of musical theatre by donating to an organization like The Fund for College Auditions. It also may be valuable for a young person looking to go into musical theatre, as well as their families, to see the data to make an informed decision on their own process. 
 
 # Initial sketches
 > Post images of your anticipated data visualizations (sketches are fine). They should mimic aspects of your outline, and include elements of your story.  
@@ -33,15 +33,15 @@ My call to action would be to the administrations of these schools to re-evaluat
 Here are some rough visualizations I've created in Flourish and Infogram that I'm planning to polish to accurately represent the data. 
 ![Tony Winner Graphic](Screenshot%202023-09-27%20at%203.18.36 PM.png)
 
+
 # The data
 > A couple of paragraphs that document your data source(s), and an explanation of how you plan on using your data. 
-I plan to use sources such as Playbill.com 
+I plan on using sources from Playbill.com,  publicly available data on tuition for both academic programs and other resources available to young actors, academic acceptance rates, and personal anecdotes/first-hand experiences to guide this project. 
 > A link to the publicly-accessible datasets you plan on using, or a link to a copy of the data you've uploaded to your Github repository, Box account or other publicly-accessible location. Using a datasource that is already publicly accessible is highly encouraged.  If you anticipate using a data source other than something that would be publicly available please talk to me first. 
 
 > [Actor's Equity Study](https://cdn.actorsequity.org/docs/HiringBiasWageGaps2021.pdf) 
 > [The STAR app](https://www.thestarapp.com/)
 > [Playbill.com Top 10 List](https://playbill.com/article/big-10-2023-the-10-most-represented-colleges-on-broadway-in-the-2022-2023-season)
-> [Where the stat about Michigan/Harvard came from](https://auditioningforcollege.com/2015/04/05/harvard-med-school-or-mt-at-u-of-mich-which-is-easier-to-get-into/)
 > [AAPAC Study](http://www.aapacnyc.org/2018-2019.html)
 > [Best Universities](https://www.usnews.com/best-colleges/rankings/national-universities)
 
