@@ -42,12 +42,12 @@ Here are some rough visualizations I've created in Flourish and Infogram that I'
 I plan to use sources such as Playbill.com 
 > A link to the publicly-accessible datasets you plan on using, or a link to a copy of the data you've uploaded to your Github repository, Box account or other publicly-accessible location. Using a datasource that is already publicly accessible is highly encouraged.  If you anticipate using a data source other than something that would be publicly available please talk to me first. 
 
-[Actor's Equity Study](https://cdn.actorsequity.org/docs/HiringBiasWageGaps2021.pdf) 
-[The STAR app](https://www.thestarapp.com/)
-[Playbill.com Top 10 List](https://playbill.com/article/big-10-2023-the-10-most-represented-colleges-on-broadway-in-the-2022-2023-season)
-[Where the stat about Michigan/Harvard came from](https://auditioningforcollege.com/2015/04/05/harvard-med-school-or-mt-at-u-of-mich-which-is-easier-to-get-into/)
-[AAPAC Study](http://www.aapacnyc.org/2018-2019.html)
-[Best Universities](https://www.usnews.com/best-colleges/rankings/national-universities)
+> [Actor's Equity Study](https://cdn.actorsequity.org/docs/HiringBiasWageGaps2021.pdf) 
+> [The STAR app](https://www.thestarapp.com/)
+> [Playbill.com Top 10 List](https://playbill.com/article/big-10-2023-the-10-most-represented-colleges-on-broadway-in-the-2022-2023-season)
+> [Where the stat about Michigan/Harvard came from](https://auditioningforcollege.com/2015/04/05/harvard-med-school-or-mt-at-u-of-mich-which-is-easier-to-get-into/)
+> [AAPAC Study](http://www.aapacnyc.org/2018-2019.html)
+> [Best Universities](https://www.usnews.com/best-colleges/rankings/national-universities)
 
 
 # Method and medium
