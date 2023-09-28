@@ -46,11 +46,13 @@ I've also found [this dataset from College Board](https://research.collegeboard.
 
 # Method and medium
 
-Of course, my first step is to make a final decision on what figures I want to represent in my story. I think there's a lot to this topic that I could probably do two or even three projects worth of work on it, so I need to really narrow down my scope. I plan to use Flourish and Infogram to build out my data visualizations. I then plan to use Shorthand to thread the whole story together and publish my final project.
+Of course, my first step is to make a final decision on what figures I want to represent in my story. I think there's a lot to this topic that I could probably do two or even three projects worth of work on it, so I need to really narrow down my scope. I plan to use Flourish and Infogram to build out my data visualizations. I personally LOVE an infographic, and I don't feel like we have really had the chance to use them in this class, so I'm excited to be able to use a slightly more creative medium to show data in conjunction with charts.  I then plan to use Shorthand to thread the whole story together and publish my final project.
 
 #### Bibliography for Part 1 Cited Sources
 
 Conley, Danee, Russell Lehrer, David Levy, Rachel Goldfarb, and Sidney Wegener. “Hiring Bias and Wage Gaps in 2021.” Actor’s Equity Association, 2023. https://cdn.actorsequity.org/docs/HiringBiasWageGaps2021.pdf. 
+
+Edwards, Matt. “Harvard Med School or Mt at U. of Mich. – Which Is Easier to Get Into?” The College Audition Blog, April 6, 2015. https://auditioningforcollege.com/2015/04/05/harvard-med-school-or-mt-at-u-of-mich-which-is-easier-to-get-into/. 
 
 Jones, Nicholas, Rachel Marks, Roberto Ramirez, and Merarys Rios-Vargas. “2020 Census Illuminates Racial and Ethnic Composition of the Country.” Census.gov, June 10, 2022. https://www.census.gov/library/stories/2021/08/improved-race-ethnicity-measures-reveal-united-states-population-much-more-multiracial.html. Originally published August 12, 2021.
 
