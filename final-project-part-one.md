@@ -28,9 +28,7 @@ First, I want to use a pictogram to represent the amount of Tony Award winners f
 My call to action would be to the administrations of these schools to re-evaluate the costs of their screening and application processes and to patrons of the arts to invest in the future of musical theatre by donating to an organization like The Fund for College Auditions. It also may be valuable for a young person looking to go into musical theatre and their families to see the data to make an informed decision on their own process. 
 
 # Initial sketches
-> Post images of your anticipated data visualizations (sketches are fine). They should mimic aspects of your outline, and include elements of your story.  
-
-Here are some rough visualizations I've created in Flourish and Infogram that I'm planning to polish to accurately represent the data. 
+Here are some rough visualizations I've created in Flourish and Infogram that I'm planning to polish to accurately represent the data. NONE of this data is exact or accurate, these are just ballpark numbers for the purposes of sketching and brainstorming. 
 ![Tony Winner Graphic](Screenshot%202023-09-27%20at%203.18.36 PM.png)
 ![Cost Initial Sketch](Cost%20initial%20sketch.png)
 ![Programs vs Each Other](programs%20vs%20each%20other.png)
