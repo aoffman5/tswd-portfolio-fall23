@@ -15,17 +15,17 @@ I went through this process myself in 2017 for the 2018-19 school year and ended
 I plan to tell my story in three parts. 
 
 ### The Cost to Get Seen
-First, I want to find a way to illustrate the common expenses a musical theatre college auditioner will have to incur on top of typical college application fees (separate audition fees, travel, coaching, dance clothes, printed headshots). I plan to illustrate this through my own journey and comparing it to the costs of applying to other "prestigious" universities with similar acceptance rates (Ivy Leagues, MIT, etc).
+First, I want to find a way to illustrate the common expenses a musical theatre college auditioner will have to incur on top of typical college application fees (separate audition fees, travel, coaching, dance clothes, printed headshots). I plan to illustrate this through my own journey and comparing it to the costs of applying to other "prestigious" universities with similar acceptance rates (Ivy Leagues, MIT, etc), or to the the costs of applying at the same schools, where applicable, for another program outside of theatre. 
 
 ### How to Stay in The Room Where It Happens
-Next, I want to outline annual attendance costs at the top 10 schools represented on Broadway in the most recent Broadway season. For the purposes of an equal playing field, I will end up swapping out Yale for one of the honorable mention schools on the list, as Yale is a Master's program.  
+Next, I want to outline annual attendance costs at the top 10 schools represented on Broadway in the most recent Broadway season. For the purposes of an equal playing field, I will end up swapping out Yale for one of the honorable mention schools on the list, as Yale is a Master's program.  Attendance is not limited to tuition, however. This also includes room and board, specialized supplies,  and the additional costs outside of the general tuition for another degree that theatre students incur
 
 ### Are These Programs Creating More Problems?
 Finally, I want to shed light on the issues of representation in the industry and how some of the barriers present in the audition process are contributing to these inequities. With the end of affirmative action, specialized programs that rely on diversity as a recruiting tool will be forced to face the music. Which of these prestigious schools will remain spaces where culture and diversity can thrive? "Success" is looking more and more white, with 80% of the lead roles in musicals and 90% of the lead roles in plays being played by white actors in the 2018-19 season (AAPAC 2021).
 
 First, I want to use a pictogram to represent the amount of Tony Award winners from the last five years, but I am debating if I want to break it down by school or by the "top 10" schools versus elsewhere. 
 
-My call to action would be to the administrations of these schools to re-evaluate the costs of their screening and application processes and to patrons of the arts to invest in the future of musical theatre by donating to an organization like The Fund for College Auditions. It also may be valuable for a young person looking to go into musical theatre, as well as their families, to see the data to make an informed decision on their own process. 
+My call to action would be to the administrations of these schools to re-evaluate the costs of their screening and application processes and to patrons of the arts to invest in the future of musical theatre by donating to an organization like The Fund for College Auditions. It also may be valuable for a young person looking to go into musical theatre and their families to see the data to make an informed decision on their own process. 
 
 # Initial sketches
 > Post images of your anticipated data visualizations (sketches are fine). They should mimic aspects of your outline, and include elements of your story.  
@@ -33,22 +33,23 @@ My call to action would be to the administrations of these schools to re-evaluat
 Here are some rough visualizations I've created in Flourish and Infogram that I'm planning to polish to accurately represent the data. 
 ![Tony Winner Graphic](Screenshot%202023-09-27%20at%203.18.36 PM.png)
 ![Cost Initial Sketch](Cost%20initial%20sketch.png)
+![Programs vs Each Other](programs%20vs%20each%20other.png)
+![Unified Cost](unified%20breakdown.png)
 
 # The data
-> A couple of paragraphs that document your data source(s), and an explanation of how you plan on using your data. 
-I plan on using sources from Playbill.com,  publicly available data on tuition for both academic programs and other resources available to young actors, academic acceptance rates, and personal anecdotes/first-hand experiences to guide this project. 
-> A link to the publicly-accessible datasets you plan on using, or a link to a copy of the data you've uploaded to your Github repository, Box account or other publicly-accessible location. Using a datasource that is already publicly accessible is highly encouraged.  If you anticipate using a data source other than something that would be publicly available please talk to me first. 
+I plan on using sources from Playbill.com, publicly available data on tuition for both academic programs and other resources available to young actors, academic acceptance rates, census data, and personal anecdotes/first-hand experiences to guide this project. The more "academic" data will be used towards the middle of my story, where I am using data to not only prove my point, but also display the gravity of the problem to those who may not be aware.
 
-> [Actor's Equity Study](https://cdn.actorsequity.org/docs/HiringBiasWageGaps2021.pdf) 
-> [The STAR app](https://www.thestarapp.com/)
-> [Playbill.com Top 10 List](https://playbill.com/article/big-10-2023-the-10-most-represented-colleges-on-broadway-in-the-2022-2023-season)
-> [AAPAC Study](http://www.aapacnyc.org/2018-2019.html)
-> [Best Universities](https://www.usnews.com/best-colleges/rankings/national-universities)
+> [Actor's Equity Study](https://cdn.actorsequity.org/docs/HiringBiasWageGaps2021.pdf) - This is where I'm looking for datasets that reflect the current state of the industry and what students can prepare for on graduation. 
+> [The STAR app](https://www.thestarapp.com/) will really be my homebase for current college audition data, such as prescreen requirements/costs, audition fees, and application fees. This database will let me really hone in my search to the specifics of the 10 schools I choose. 
+> [Playbill.com Top 10 List](https://playbill.com/article/big-10-2023-the-10-most-represented-colleges-on-broadway-in-the-2022-2023-season) is where I have started my search, and the annual release of this list each year is what made me decide on this topic. 
+> [AAPAC Study](http://www.aapacnyc.org/2018-2019.html) is another resource I will be leaning on for data about representation in the industry, specifically on the basis of racial equity. This will be key to tie in with my discussion on the end of affirmative action and how 
+> [Best Universities](https://www.usnews.com/best-colleges/rankings/national-universities) will be where I pull my list of other prestigious universities with similarly competitive acceptance rates and compare them rank-for-rank with the theatre schools. My current visualization comparing costs is for theatre vs. non-theatre degrees, but I may use the ranking system instead. 
+> I've also found [this dataset from College Board](https://research.collegeboard.org/trends/college-pricing) that highlights the overall rise in college tuition, which I may use to benchmark some of the tuition costs. 
 
 
 # Method and medium
-> In a few sentences, you should document how you plan on completing your final project. 
-> I plan to use Flourish and Infogram to build out my data visualizations. I then plan to use Shorthand to thread the whole story together and publish my final project.
+
+Of course, my first step is to make a final decision on what figures I want to represent in my story. I think there's a lot to this topic that I could probably do two or even three projects worth of work on it, so I need to really narrow down my scope. I plan to use Flourish and Infogram to build out my data visualizations. I then plan to use Shorthand to thread the whole story together and publish my final project.
 
 Bibliography for Part 1 Cited Sources
 
