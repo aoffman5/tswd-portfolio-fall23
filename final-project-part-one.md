@@ -49,7 +49,7 @@ I plan on using sources from Playbill.com, publicly available data on tuition fo
 
 Of course, my first step is to make a final decision on what figures I want to represent in my story. I think there's a lot to this topic that I could probably do two or even three projects worth of work on it, so I need to really narrow down my scope. I plan to use Flourish and Infogram to build out my data visualizations. I then plan to use Shorthand to thread the whole story together and publish my final project.
 
-Bibliography for Part 1 Cited Sources
+ #### Bibliography for Part 1 Cited Sources
 
 Conley, Danee, Russell Lehrer, David Levy, Rachel Goldfarb, and Sidney Wegener. “Hiring Bias and Wage Gaps in 2021.” Actor’s Equity Association, 2023. https://cdn.actorsequity.org/docs/HiringBiasWageGaps2021.pdf. 
 
