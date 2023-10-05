@@ -11,7 +11,7 @@ Here is the link I sent out to my friends: [Go here](https://preview.shorthand.c
 ## Target audience
 > Include your approach to identifying representative individuals, and who you hope to reach with your story. 
 
-I have INTENTIONALLY shifted my audience to be general policy makers, administrators, and the public who want to learn more about what it takes to study theatre in college. The field itself has always been very secretive, and part of my reason for choosing this topic was that I wanted to demystify the process.
+I have INTENTIONALLY shifted my audience to be general policy makers, administrators, and the public who want to learn more about what it takes to study theatre in college. The field itself has always been very secretive, and part of my reason for choosing this topic was that I wanted to demystify the process. I've chosen to use accessible language that helps to lower the hurdle that could present itself if I were to use too much industy-specific language.  
 
 ## Interview script
 > List the goals from your research, and the questions you intend to ask. 
