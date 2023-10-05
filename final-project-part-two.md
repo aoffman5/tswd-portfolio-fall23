@@ -57,7 +57,7 @@ D. A friend of mine who has no theatre background, 20's
 E. A CMU student who is not studying theatre or the arts but performs as an extracurricular, 20's
 1. Honestly, I am not surprised by the topics, but that is just because I am slightly familiar with the topic. I was never interested in applying to school for theater, but I know for the people that want to, I always knew that it was a lot of money. With theater programs, it is usually the case where the wealthy have the best opportunities at being able to audition at a lot of places.
 2. To me, I feel the audience is to colleges to call out this problem but also to the people who need to see the reality of the costs behind theater applications to schools.
-3 and 4.I think the story was incredibly pleasing. I really liked the format, and the graphs were easy to follow along.
+3 and 4. I think the story was incredibly pleasing. I really liked the format, and the graphs were easy to follow along.
 5. I don't really have any follow up questions except do you expect to see a shift in any prices for tuition at these schools as they become more competitive? Overall, such a nice job!
 
 F. A CMU School of Drama student, 20's
