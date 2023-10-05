@@ -20,19 +20,17 @@ I have INTENTIONALLY shifted my audience to be general policy makers, administra
 2. Who do you think is the intended audience for this? (This is for user engagement and to see if my objective audience is transferring)
 3. Is the story aesthetically pleasing? (This is for aesthetics and clarity, I don't want to have any colors that are too jarring or anything confusing).
 4. Are the graphs easy to understand? (This is for intuition and clarity). 
-5. What questions do you still have? (This is where I'm pulling out my change orders, and 
-Text here!
+5. What questions do you still have? (This is where I'm pulling out my change orders, and seeing if there's anything else to add or work on).
 
 ## Interview findings
-> Detail the findings from your interviews.  Do not include PII.  Capture specific insights where possible.
-I asked a few of my peers that have varying levels of exposure to theatre to take a look at my project so far.
+I asked a few of my peers that have varying levels of exposure to theatre to take a look at my project so far. These answers are taken verbatim from their written thoughts, so apologies for any typos or casual verbiage. 
 
 A. A statistics major who is minoring in theatre, 20's
 
 1. 0.5% acceptance rate is crazy—the cost of the tony is also thought-provoking, if maybe not surprising.
 2. People who generally have not engaged with the world of college theatre—it feels purposefully accessible to all levels of knowledge.
 3. It’s pretty—though the beige-ish reddish background screens are a little jarring each time. after the first—it’s really nice on the first slide with the orange photo, but a little weird each time after that.
-4. On the whole, yes! The pie chart of Unified audition cost breakdown is a little messy—two items having the same coloration makes me wonder why they were grouped together.  On “The Cost of One Year of “Broadway School””, the colors are also quite confusing—particularly as they are inconsistent with the colors in the graph immediately above. Why do some get colors and some get grey?
+4. On the whole, yes! The pie chart of Unified audition cost breakdown is a little messy—two items having the same coloration makes me wonder why they were grouped together.  On “The Cost of One Year of “Broadway School”, the colors are also quite confusing—particularly as they are inconsistent with the colors in the graph immediately above. Why do some get colors and some get grey?
 
 B. A CMU Arts Management student, 20's
 1) the audition and application fees as well as the costs for applying to theatre programming as compared to other college tracks  
@@ -51,7 +49,7 @@ C. A theatre major at one of the top 10 schools mentioned, 20's
 D. A friend of mine who has no theatre background, 20's
 1. not really, the arts always be absurdly expensive
 2. prospective theater program applicants
-3. yes i like all the pictures
+3. yes, i like all the pictures
 4. yes
 5. how many people typically apply to these programs yearly?
 
@@ -61,6 +59,13 @@ E. A CMU student who is not studying theatre or the arts but performs as an extr
 3 and 4.I think the story was incredibly pleasing. I really liked the format, and the graphs were easy to follow along.
 5. I don't really have any follow up questions except do you expect to see a shift in any prices for tuition at these schools as they become more competitive? Overall, such a nice job!
 
+F. A CMU School of Drama student, 20's
+
+1. YES pls i did not know that application fees were that different because i only applied for theatre like that’s crazy
+2. I genuinely think professors and admissions ppl would read this (at least the SoD ppl do read about like admissions and stuff from what i’ve talked to them about)! i wonder if the written parts could be more worded like speaking to them or the general public because i fear that parts feel just slightly more like you are telling like whoever you’re getting this project reviewed by
+3. yes totally! i think this is professional as well as exciting to look at and drew me in
+4. graphs are super easy to understand, in my opinion 
+5. i think i am just excited to learn more about like how diversity impacts this ya know? 
 
 # Identified changes for Part III
 > Document the changes you plan on implementing next week to address any issues identified.  
@@ -69,18 +74,13 @@ Text here!
 
 | Research synthesis                       | Anticipated changes for Part III                                                |
 |------------------------------------------|---------------------------------------------------------------------------------|
-| Findings or observations from interviews | Describe what, if any changes you anticipate making to address the observation. |
+| Keep building out the last section, make those diversity statistics into a sort of graph| Make the statistics into a sort of appealing graph or infographic. |
+| Add more of my thoughts on the trends in tuition pricing |  This is where I'll go back to the College Board source or some sort of other authority on higher education and find another callout statistic since they seem to be impacting the audience so far. |
 |                                          |                                                                                 |
 |                                          |                                                                                 |
-|                                          |                                                                                 |
-| ...add more rows as necessary            |                                                                                 |
+|        |                                                                                 |
 
 > ...include any final thoughts you have here. 
-
-Text here!
-
-# Moodboards / personas
-> If you did this optional part, include details here.  Otherwise remove this section
 
 Text here!
 
