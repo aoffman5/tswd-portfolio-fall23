@@ -71,17 +71,16 @@ F. A CMU School of Drama student, 20's
 # Identified changes for Part III
 > Document the changes you plan on implementing next week to address any issues identified.  
 
-Text here!
 
 | Research synthesis                       | Anticipated changes for Part III                                                |
 |------------------------------------------|---------------------------------------------------------------------------------|
 | Keep building out the last section, make those diversity statistics into a sort of graph| Make the statistics into a sort of appealing graph or infographic. |
 | Add more of my thoughts on the trends in tuition pricing |  This is where I'll go back to the College Board source or some sort of other authority on higher education and find another callout statistic since they seem to be impacting the audience so far. |
-|                                          |                                                                                 |
+| I PERSONALLY want to look at the cost graphic again. The colors aren't really holding any significance right now...  |    I'd like to figure that out, ideally.                                                                              |
 |                                          |                                                                                 |
 |        |                                                                                 |
 
 > ...include any final thoughts you have here. 
 
-Text here!
+I'm excited that I've gotten some good feedback so far! I hope that I am in a good place leading up to the final part of the project. I know that I will have a lot of work to do in terms of creating another visualization and making sure I've cited absolutely everything perfectly, but I think it's doable between now and next week. 
 
