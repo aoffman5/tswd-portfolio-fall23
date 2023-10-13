@@ -42,15 +42,12 @@ After I graduate, I hope to work in theatre as a company manager, at an artist m
 ## Visualizing Government Debt
 [Click here!](visualizing-government-debt)
 ## Critique By Design
-
+[Click here!](critique-by-design)
 ## Final Project
 ### Part 1
+[Part 1](final-project-part-one)
 ### Part 2
+[Part 2](final-project-part-two)
 ### Part 3
-
-# Starting here... starting now!
-
-We all have to start somewhere, so here is the first data visualization I've ever made in Flourish!
-
-[Click Me!](King-County-Demo)
+[Part 3](final-project-part-three)
 
