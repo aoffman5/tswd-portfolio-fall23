@@ -44,7 +44,7 @@ After I graduate, I hope to work in theatre as a company manager, at an artist m
 ## Critique By Design
 [Click here!](critique-by-design)
 ## Final Project
-[Part 1](final-project-part-one)
-[Part 2](final-project-part-two)
+[Part 1](final-project-part-one) ///
+[Part 2](final-project-part-two) ///
 [Part 3](final-project-part-three)
 
