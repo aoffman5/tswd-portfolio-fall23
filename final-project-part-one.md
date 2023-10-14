@@ -1,4 +1,5 @@
 | [home page](https://aoffman5.github.io/tswd-portfolio-fall23/) | [visualizing government debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
+
 # Outline
 
 Every year, thousands of high school seniors across the United States, and a privileged few from countries across the globe, participate in what laymen could only describe as the closest possible experience to a human cattle-call: the musical theatre college audition process. From campus visits to testing to prescreens and the final audition, the process can cost thousands of dollars for an auditioner and their family, even without additional support such as coaching or a summer intensive program. While, of course, institutional and governmental financial aid is available, these are not resources that are available to all students during their process and education.
