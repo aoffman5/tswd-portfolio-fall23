@@ -25,6 +25,25 @@ For my visualizations relating to cost, I had to take a slightly unconventional 
 
 Here are those citations!
 
+“2023-2024 Undergraduate Tuition - Student Financial Services - Office of Enrollment Management.” Carnegie Mellon University. Accessed October 15, 2023. https://www.cmu.edu/sfs/tuition/undergraduate/index.html.
+
+“Admissions.” AMDA. Accessed October 15, 2023. https://www.amda.edu/admissions#req. 
+
+“Cost of Attendance.” Boston Conservatory at Berklee. Accessed October 15, 2023. https://bostonconservatory.berklee.edu/offices-and-services/cost-attendance. 
+
+“Tuition &amp; Aid.” Elon University. Accessed October 15, 2023. https://www.elon.edu/u/admissions/undergraduate/financial-aid/tuition-and-aid/. 
+
+“Tuition &amp; Fees.” Office of the Registrar. Accessed October 15, 2023. https://ro.umich.edu/tuition-residency/tuition-fees. 
+
+“Tuition &amp; Fees.” University of Cincinnati. Accessed October 15, 2023. https://www.uc.edu/about/bursar/tuition-fees.html. 
+
+“Tuition Information.” NYU Tisch School of the Arts. Accessed October 15, 2023. https://tisch.nyu.edu/admissions/tuition-fees. 
+
+“Tuition, Fees, and Expenses.” The Juilliard School. Accessed October 15, 2023. https://www.juilliard.edu/campus-life/tuition-financial-aid/tuition-fees-and-expenses. 
+
+“Undergraduate Admission: Cost of Attendance.” Pace University. Accessed October 15, 2023. https://www.pace.edu/admission-and-aid/undergraduate-admission/tuition-and-cost/cost-of-attendance. 
+
+“Undergraduate Tuition.” Student Finance - Northwestern University. Accessed October 15, 2023. https://www.northwestern.edu/sfs/tuition/undergraduate/#tab-panel2. 
 
 Icon Attributions:
 <a href="https://www.flaticon.com/free-icons/university" title="university icons">University icons created by Smashicons - Flaticon</a>
