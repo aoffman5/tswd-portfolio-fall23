@@ -1,8 +1,7 @@
 | [home page](https://aoffman5.github.io/tswd-portfolio-fall23/) | [visualizing government debt](visualizing-government-debt.md) | [critique by design](critique-by-design.md) | [final project I](final-project-part-one.md) | [final project II](final-project-part-two.md) | [final project III](final-project-part-three.md) |
 
-# The final data story
 
-Text here!
+[Final Data Story](https://carnegiemellon.shorthandstories.com/hurdles-made-of-dollar-bills/index.html)
 
 # Changes made since Part II
 The first and most obvious change is that I created three new infographics to help tell my story. I wanted to address the rising tuition trend as mentioned by one of my users from Part II, and I needed to fill in the gap that I had flagged was present during part II for my visualizations on the industry effect. I chose to turn the potential consequences of the end of affirmative action into an infographic, then I used the Census data to create an infographic on white representation on professional stages and in the general American population. Because of my new visualizations, I was able to shorten some of my text blocks.
@@ -49,6 +48,7 @@ Icon Attributions:
 <a href="https://www.flaticon.com/free-icons/tuition" title="tuition icons">Tuition icons created by Freepik - Flaticon</a>
 
 # Final thoughts
-> You can summarize any final thoughts / reflections that don't fit well in the previous sections here.  How did it go?  What did you run out of time for, or wish you had a chance to revisit?  What were you most excited about?  Include any final reflections as you think they might help us understand your process.  If you already included such reflections elsewhere, you can delete this section. 
 
-Text here!
+I really didn't have a clue of what I wanted to explore with this project, because I felt like doing something in the arts was too "obvious" or "easy". However, I learned through the process of in-class critiques and the user research that Sondheim was right: "art isn't easy." Diving into this subject really made me realize that people in the creative industries don't necessarily always recognize their privilege. By making the decision so early in your life to pursue the arts as a career, you're subjecting yourself and your family to hardship far beyond what other students go through to study a more traditional subject. Hearing the comments of "I never knew the other route was so much less expensive" really made me wonder what some of my friends would be doing with their lives if they had known this information sooner. I really hope that having this project being made public helps to demystify the process a bit, and maybe it could help someone along the way. 
+
+Overall, I have really loved this class, and tried to soak in everything like a sponge! I've come a long way from freaking out about how to set up a README. I'm excited to take the skills I've learned here into future courses, and hopefully into my post-graduation jobs. 
