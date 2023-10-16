@@ -17,7 +17,9 @@ On the subject of color, I also changed the colors of the bar chart for applicat
 ## The audience
 > Talk about who you identified as the audience for your final data story.  Include any other information you've used that helped you narrow the focus (e.g. insights from your interviews, personas, etc.).  Note any specific adjustments you made to your final project to make it work for your audience.
 
-I think that based on the feedback I received from my user research, my audience seemed clear: I want to focus this presentation on the general public and university administrators while providing information that is relevant to people going through the musical theatre audition process. This was purposeful because with decisions like tuition for some of these programs, the buck stops at the university administration, not necessarily at department heads. While my primary call to action is still to the general public to support non-profits like TFCA to help bridge the gap, I wanted to also include a secondary call to action to university administrators as donating to a fund like this could be potentially construed as a conflict of interest. 
+I think that based on the feedback I received from my user research, my audience seemed clear: I want to focus this presentation on the general public and university administrators while providing information that is relevant to people going through the musical theatre audition process. This was purposeful because, with decisions like tuition for some of these programs, the buck stops at the university administration, not necessarily at department heads. While my primary call to action is still to the general public to support non-profits like TFCA to help bridge the gap, I wanted to also include a secondary call to action to university administrators as donating to a fund like this could be potentially construed as a conflict of interest. 
+
+I received very good feedback in Part II that my data story would be accessible to the general public.
 
 ## References
 For my visualizations relating to cost, I had to take a slightly unconventional approach to compile the data I needed. For the bar charts about the cost of applications to the schools and tuition and housing costs, I pulled these figures from the Admissions and Financial Aid pages for each school. I either used the full "cost of living" figures that the schools provided (AMDA and NYU had numbers like this), or I calculated it manually by finding a room + board package similar to a traditional first-year experience (dormitory living with a meal plan). 
@@ -47,6 +49,8 @@ Here are those citations!
 Icon Attributions:
 <a href="https://www.flaticon.com/free-icons/university" title="university icons">University icons created by Smashicons - Flaticon</a>
 <a href="https://www.flaticon.com/free-icons/tuition" title="tuition icons">Tuition icons created by Freepik - Flaticon</a>
+
+For my own personal costs, I dug through my emails between September 2017 and May 2018 to collect any pertinent information I could that related to New York Unifieds. I was able to find my flight and hotel receipts, some receipts for application fees, then some receipts from my coachings that I had leading up to that weekend of auditions. I made an estimate on food, because I couldn't really find anything there. 
 
 # Final thoughts
 
