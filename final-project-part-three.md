@@ -1,7 +1,8 @@
 | [home page](https://aoffman5.github.io/tswd-portfolio-fall23/) | [visualizing government debt](visualizing-government-debt.md) | [critique by design](critique-by-design.md) | [final project I](final-project-part-one.md) | [final project II](final-project-part-two.md) | [final project III](final-project-part-three.md) |
 
+# The Final Data Story 
 
-[Final Data Story](https://carnegiemellon.shorthandstories.com/hurdles-made-of-dollar-bills/index.html)
+[Click Here!](https://carnegiemellon.shorthandstories.com/hurdles-made-of-dollar-bills/index.html)
 
 # Changes made since Part II
 The first and most obvious change is that I created three new infographics to help tell my story. I wanted to address the rising tuition trend as mentioned by one of my users from Part II, and I needed to fill in the gap that I had flagged was present during part II for my visualizations on the industry effect. I chose to turn the potential consequences of the end of affirmative action into an infographic, then I used the Census data to create an infographic on white representation on professional stages and in the general American population. Because of my new visualizations, I was able to shorten some of my text blocks.
